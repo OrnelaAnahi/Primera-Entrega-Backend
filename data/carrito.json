@@ -1,0 +1,74 @@
+[  
+  {
+  "productos": [
+    {
+      "nombre": "Taza Bart",
+      "precio": 7,
+      "url": "https://www.google.com/",
+      "descripcion": "csdgsd",
+      "stock": 19,
+      "id": 1,
+      "timestamp": "2022-04-04T01:47:52.296Z"
+    },
+    {
+      "nombre": "Taza homero",
+      "precio": 7,
+      "url": "https://www.google.com/",
+      "descripcion": "dgsdsds",
+      "stock": 20,
+      "id": 3,
+      "timestamp": "2022-04-04T17:36:44.883Z"
+    }
+  ],
+  "id": 1,
+  "timestamp": "12/5/2022 - 18:00:04"
+},
+  {
+    "productos": [
+      {
+        "nombre": "Taza Bart",
+        "precio": 7,
+        "url": "https://www.google.com/",
+        "descripcion": "csdgsd",
+        "stock": 19,
+        "id": 1,
+        "timestamp": "2022-04-04T01:47:52.296Z"
+      },
+      {
+        "nombre": "Taza homero",
+        "precio": 7,
+        "url": "https://www.google.com/",
+        "descripcion": "dgsdsds",
+        "stock": 20,
+        "id": 3,
+        "timestamp": "2022-04-04T17:36:44.883Z"
+      }
+    ],
+    "id": 2,
+    "timestamp": "12/5/2022 - 18:00:04"
+  },
+  {
+    "productos": [
+      {
+        "nombre": "Taza Bart",
+        "precio": 7,
+        "url": "https://www.google.com/",
+        "descripcion": "dsggdsd",
+        "stock": 19,
+        "id": 1,
+        "timestamp": "2022-04-04T01:47:52.296Z"
+      },
+      {
+        "nombre": "Taza homero",
+        "precio": 7,
+        "url": "https://www.google.com/",
+        "descripcion": "lsdggdsra",
+        "stock": 20,
+        "id": 3,
+        "timestamp": "2022-04-04T17:36:44.883Z"
+      }
+    ],
+    "id": 3,
+    "timestamp": "12/5/2022 - 18:00:04"
+  }
+]

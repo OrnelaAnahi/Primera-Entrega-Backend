@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "timestamp": "5/5/2022 14:47:35",
+    "nombre": "Taza de Marge",
+    "descripcion": "kasñkdsa Tasaj",
+    "url": "https://www.google.com/",
+    "stock": 21,
+    "precio": 350
+  },
+  {
+    "nombre": "Taza de Magui",
+    "descripcion": "otra descripcion",
+    "url": "https://www.google.com/",
+    "stock": 21,
+    "precio": 450,
+    "id": 2,
+    "timestamp": "12/5/2022 - 17:25:37"
+  },
+  {
+    "nombre": "Taza de Homero",
+    "descripcion": "otra descripcion",
+    "url": "https://www.google.com/",
+    "stock": 21,
+    "precio": 450,
+    "id": 3,
+    "timestamp": "12/5/2022 - 17:34:54"
+  }
+]
