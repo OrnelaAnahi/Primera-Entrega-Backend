@@ -9,10 +9,14 @@ const { Router } = express
 const router = new Router
 
 // Contenedor
-const Productos = require('../contenedores/classProductos.js')
+const Productos = require('../src/contenedores/ClassProductos.js.js.js')
 
 // CONTENEDOR DE PRODUCTOS
 const contenedorProd = new Productos('./data/productos.json')
+
+import {
+  productosDao as productosApi,
+} from './daos/index.js'
 
 
 router.get('/:id?', (req, res) => {

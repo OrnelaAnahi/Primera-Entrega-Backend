@@ -6,7 +6,7 @@ const { Router } = express
 const router = new Router
 
 // Contenedor
-const Carrito = require('../contenedores/classCarrito.js')
+const Carrito = require('../src/contenedores/ClassCarrito.js.js.js')
 
 // CONTENEDOR DE CARRITOS
 const contenedorCart = new Carrito('./data/carrito.json')
